@@ -48,10 +48,15 @@ p {
 .icon-block {
   padding: 0 15px;
 }
-.icon-block .material-icons {
-  font-size: inherit;
-}
 
 footer.page-footer {
   margin: 0;
+}
+
+.pluginMain {
+    color: white;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: rgb(38, 166, 154);
+    padding: 10px;
 }
