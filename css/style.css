@@ -60,3 +60,9 @@ footer.page-footer {
     background-color: rgb(38, 166, 154);
     padding: 10px;
 }
+
+.downloadSpan {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    }
+}
