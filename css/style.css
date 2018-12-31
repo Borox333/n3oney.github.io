@@ -39,6 +39,10 @@ p {
   }
 }
 
+.boutline {
+    -webkit-text-stroke: 2px black;
+}
+
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
